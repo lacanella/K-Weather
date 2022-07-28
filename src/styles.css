@@ -1,0 +1,117 @@
+body {
+  margin: 70px;
+  padding: 30px;
+  border: 10px;
+  border: #1a6ec5;
+  border-style: groove;
+  border-radius: 5px;
+  font-family: Lato;
+  max-width: 600px;
+}
+img {
+  right: 0;
+  top: 0;
+  text-align: right;
+  display: block;
+}
+.conteiner {
+  color: #1a6ec5;
+  margin-top: 10px;
+  margin-left: 10px;
+  box-sizing: border-box;
+  border-width: 5px;
+}
+.col-auto {
+  border: 30px;
+  padding: 7px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.fcity {
+  padding: 7px;
+  border-color: #1a6ec5;
+  border-radius: 5px;
+  border-style: groove;
+}
+.fcity:hover {
+  border-color: #44b0fb;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+button {
+  border: 10px;
+  transition: all 200ms ease;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: auto 15px;
+}
+h1 {
+  font-size: 65px;
+  margin: 10px;
+}
+
+h2 {
+  margin: 10px;
+  padding: 10px;
+}
+h3 {
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px;
+}
+.col-2 {
+  font-size: 22px;
+  padding: 7px;
+  text-align: center;
+}
+.blueviolet,
+.green,
+.salad {
+  text-align: center;
+  font-size: 25px;
+}
+.blueviolet {
+  color: blueviolet;
+}
+.blueviolet:hover {
+  background-color: aqua;
+  border-radius: 10px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+.green {
+  color: #54b3a8;
+}
+.green:hover {
+  background-color: bisque;
+  border-radius: 10px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+.salad {
+  color: chartreuse;
+}
+.salad:hover {
+  background-color: #54b3a8;
+  border-radius: 10px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+span {
+  font-size: 25px;
+}
+.celsius:hover {
+  cursor: pointer;
+  transition: all 200ms ease;
+}
+.fahrenheit:hover {
+  cursor: pointer;
+  transition: all 200ms ease;
+}
+.temperatur {
+  font-size: 65px;
+}
+a {
+  position: relative;
+  top: -35px;
+}
