@@ -119,4 +119,5 @@ span {
 .open-source {
   position: relative;
   bottom: -35px;
+  text-align: right;
 }
