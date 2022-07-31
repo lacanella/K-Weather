@@ -116,3 +116,7 @@ span {
   position: relative;
   top: -35px;
 }
+.open-source {
+  position: relative;
+  bottom: -35px;
+}
