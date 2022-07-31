@@ -111,7 +111,8 @@ span {
 .temperatur {
   font-size: 65px;
 }
-a {
+.celsius,
+.fahrenheit {
   position: relative;
   top: -35px;
 }
